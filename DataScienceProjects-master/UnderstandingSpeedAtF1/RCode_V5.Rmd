@@ -1,0 +1,87 @@
+---
+title: "Rmarkdown - Understanding Driver Performance"
+author: "AshleshBilladyshetty"
+date: "August 15, 2017"
+output: html_document
+---
+
+Importing the data
+```{r}
+setwd("C:\\Users\\Ashlesh B Shetty\\OneDrive\\6120 IntroStatdataScientists\\Project_Stats_F1\\Model_TeamIteration3_15Aug2017\\")
+library(readxl)
+df <- read_excel("Updated_DataFinal_15Aug2017.xlsx", col_names = TRUE)
+```
+
+Data understanding
+
+```{r}
+#variable distribution analysis of the cleaned, collated, and missing value and outlier treated data
+# h <- hist(df$Speed)
+# h <- hist(df$Height)
+# h <- hist(df$Dependents)
+# h <- hist(df$Age)
+# h <- hist(df$TeamPrevYrScore)
+# h <- hist(df$TotalTurns)
+
+summary( df$Speed,df$TotalTurns , df$Height , df$Age , df$Grid , df$TeamPrevYrScore)
+#write.csv( summary(df), file ="MyData.csv",row.names=FALSE)
+
+library(dplyr)
+
+op <- df %>% 
+  group_by(Race) %>% 
+  summarise(avg_speed = mean(Speed), count = n())%>%
+  arrange(avg_speed)
+#write.csv( op, file ="MyData.csv",row.names=FALSE)
+
+op <- df %>% 
+  group_by(Dependents) %>% 
+  summarise(avg_speed = mean(Speed), count = n())%>%
+  arrange(avg_speed)
+#write.csv( op, file ="MyData.csv",row.names=FALSE)
+
+op <- df %>% 
+  group_by(RaceContinent) %>% 
+  summarise(avg_speed = mean(Speed), count = n())%>%
+  arrange(avg_speed)
+#write.csv( op, file ="MyData.csv",row.names=FALSE)
+
+data.frame(cor(df[,c('Height','Age','Speed','TotalTurns','TeamPrevYrScore','Grid')]))
+#write.csv( op, file ="MyData.csv",row.names=FALSE)
+
+```
+
+Modeling exercise
+```{r}
+
+df$RaceContinent_F<-factor(df$RaceContinent)
+df$RaceContinent_F <- relevel(df$RaceContinent_F, ref ='SA')
+
+fit1 <- lm(df$Speed ~ df$TotalTurns + df$Dependents + df$Height + df$Age + df$Grid +df$TeamPrevYrScore +df$RaceContinent_F)
+fit1 <- lm(df$Speed ~ df$TotalTurns + df$Dependents +  df$Age + df$Grid +df$TeamPrevYrScore +df$RaceContinent_F)
+fit1 <- lm(df$Speed ~ df$TotalTurns +  df$Age + df$Grid +df$TeamPrevYrScore +df$RaceContinent_F)
+fit1 <- lm(df$Speed ~ df$TotalTurns + df$Grid +df$TeamPrevYrScore +df$RaceContinent_F)
+
+summary(fit1)
+
+#assumptions test
+fit_residuals <- rstandard(fit1)
+plot(fit1$fitted.values, fit_residuals, pch = 16, main = "Standardized Re
+sidual Plot", xlab = "Fitted Sales (100s)", ylab = "Standardized Residuals")
+abline(0,0, lty=2, col="red")
+
+qqnorm(fit_residuals, main = "Normal Probability Plot", xlab = "Normal Scores
+", ylab = "Standardized Residuals")
+qqline(fit_residuals, col = "red")
+
+
+h <- hist(fit_residuals)
+x <- fit_residuals
+xfit <- seq(min(x), max(x), length = 50)
+yfit <- dnorm(xfit, mean = mean(x), sd = sd(x))
+yfit <- yfit*diff(h$mids[1:2])*length(x)
+lines(xfit, yfit, col="blue")
+
+shapiro.test(fit_residuals)
+
+```

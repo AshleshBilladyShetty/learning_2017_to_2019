@@ -1,0 +1,755 @@
+,SlNo,Employer,Job Title,Status,Location,Others
+16,1,"360 It Professionals, Inc.",Sr. Data Analyst-mdm,In Process,"San Ramon, California",LCA
+17,2,"360 It Professionals, Inc.",Technical Data Analyst,Certified,"Los Angeles, California",LCA
+18,3,"A.r.t. Furniture, Inc.",Market Data Analyst,Certified,"Ontario, California",LCA
+19,4,"A9.com, Inc",Technical Data Analyst,Certified,"Palo Alto, California",LCA
+20,5,"A9.com, Inc.",Technical Data Analyst I,Certified,"Palo Alto, California",LCA
+21,6,Abbott Laboratories,Business Data Analyst,Certified,"Alameda, California",LCA
+22,7,"Abcyte Therapeutics, Inc.",Data Analyst,Certified,"Palo Alto, California",LCA
+23,8,Accrete Hitech Solutions Inc,Data Analyst,Certified,"Santa Clara, California",LCA
+25,9,"Acumen Solutions, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+26,10,"Adara, Inc.",Data Analyst,Certified,"Palo Alto, California",LCA
+27,11,"Adara, Inc.",Senior Data Analyst,Certified,"Palo Alto, California",LCA
+28,12,"Adcolony, Inc.",Data Analyst,In Process,"San Mateo, California",LCA
+29,13,"Addepar, Inc.",Data Analyst,Certified,"Mountain View, California",LCA
+30,14,"Adecco Usa, Inc.",Data Analyst,Certified,"San Bruno, California",LCA
+31,15,Adm Marketing Llc,Data Analyst,Certified,"Burbank, California",LCA
+32,16,Adobe Systems Incorporated,Data Analytics Web Devops Engineer,Certified,"San Jose, California",LCA
+33,17,Adobe Systems Incorporated,"Senior Data Analyst, Adobe Stock",Certified,"San Francisco, California",LCA
+34,18,"Advertising Audit International, Llc",Financial Data Analyst,Certified,"Union City, California",LCA
+35,19,"Affirm, Inc.",Data Analytics Lead,Certified,"San Francisco, California",LCA
+36,20,"Agama Solutions, Inc.",Business Data Analyst,Certified,"San Leandro, California",LCA
+37,21,"Age Of Learning, Inc.",Digital Marketing Data Analyst,Certified,"Glendale, California",LCA
+38,22,"Age Of Learning, Inc.",Senior (bi) Data Analyst / Statistician,Certified,"Glendale, California",LCA
+39,23,"Agilent Technologies, Inc.",Data Analytics Engineer,Certified,"Santa Clara, California",LCA
+40,24,Ahmc Healthcare Inc.,Data Analyst,Certified,"Alhambra, California",LCA
+41,25,"Airbnb, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+16,26,"Airbnb, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+17,27,"Airbnb, Inc.",Data Analytics Manager,Certified,"San Francisco, California",LCA
+18,28,"Airbnb, Inc.",Data Analytics Manager,Certified,"San Francisco, California",LCA
+19,29,"Airbnb, Inc.",Data Analytics Manager,Withdrawn,"San Francisco, California",LCA
+20,30,"Airbnb, Inc.",Data Analytics Specialist,Certified,"San Francisco, California",LCA
+21,31,Ajinomoto Windsor Inc.,Mdm Data Analyst,Certified,"Ontario, California",LCA
+22,32,"Altair Productdesign, Inc.",Data Analyst,Certified,"Torrance, California",LCA
+23,33,Amgen Inc,Data Analyst,Certified,"Thousand Oaks, California",LCA
+25,34,"Amino, Inc.",Data Analysis Engineer,Certified,"San Francisco, California",LCA
+26,35,"Amino, Inc.",Data Analysis Engineer,Withdrawn,"San Francisco, California",LCA
+27,36,Anand Software Inc,Data Analyst,In Process,"Stockton, California",LCA
+28,37,Anand Software Inc,Data Analyst,In Process,"Stockton, California",LCA
+29,38,"Ancestry.com Operations, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+30,39,"Ancestry.com Operations, Inc.",Senior Data Analyst,Certified,"San Francisco, California",LCA
+31,40,Angelytix Consulting Llc,Finance And Data Analyst,Certified,"Beverly Hills, California",LCA
+32,41,"Anjaneyap, Inc.",Data Analyst,Certified,"San Ramon, California",LCA
+33,42,"Anyhealth Insurance Services, Inc.",Data Analyst,Certified,"Rowland Heights, California",LCA
+34,43,Appdynamics Inc.,Data Analyst - Sales Analytics,Certified,"San Francisco, California",LCA
+35,44,Apple Inc.,(big) Data Analytics Camera Engineer,Certified,"Cupertino, California",LCA
+36,45,"Argo Ai, Llc",Performance Data Analyst,Certified,"Mountain View, California",LCA
+37,46,Arkrit Llc,Data Analyst,Certified,"Watsonville, California",LCA
+38,47,Asap Expo Inc.,Business Data Analyst,Certified,"Rosemead, California",LCA
+39,48,"At&t Services, Inc.",Senior Data Analysis,Certified,"El Segundo, California",LCA
+40,49,"At&t Services, Inc.",Senior Data Analysis,Certified,"El Segundo, California",LCA
+41,50,"Athene Asset Management, L.p.",Sr. Data Analyst,Certified,"El Segundo, California",LCA
+16,51,"Atom Tickets, Llc",Senior Data Analyst,In Process,"Santa Monica, California",LCA
+17,52,Aurum Capital Management,Data Analyst,Certified,"San Jose, California",LCA
+18,53,"Autodesk, Inc.",Customer Success Data Analyst,Certified,"San Francisco, California",LCA
+19,54,"Autodesk, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+20,55,"Autodesk, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+21,56,"Autodesk, Inc.","Operations Research Analysts, Data Analytics",Certified,"San Francisco, California",LCA
+22,57,"Automanager, Inc.",Business Data Analyst,Certified,"Canoga Park, California",LCA
+23,58,"Autotrader.com, Inc.",Business Data Analyst,Certified,"Redwood City, California",LCA
+25,59,"Autotrader.com, Inc.",Data Analyst,Certified,"Redwood City, California",LCA
+26,60,Bank Of The West,Data Analytics Analyst,Certified,"San Ramon, California",LCA
+27,61,Bank Of The West,Data Analytics Analyst,Certified,"San Ramon, California",LCA
+28,62,Bank Of The West,Data Analytics Manager,Certified,"San Ramon, California",LCA
+29,63,Bank Of The West,It Business Intelligence & Data Analyst,Certified,"San Ramon, California",LCA
+30,64,Bank Of The West,Senior Basel Ii Data Analyst,Certified,"San Ramon, California",LCA
+31,65,Bank Of The West,Sr. Data Analytics Manager,Certified,"San Ramon, California",LCA
+32,66,Bell Info Solutions Llc,Data Analyst,Withdrawn,"San Francisco, California",LCA
+33,67,Bell Info Solutions Llc,Data Analyst,Certified,"San Francisco, California",LCA
+34,68,Bell Info Solutions Llc,Data Analyst,Withdrawn,"Sanfrancisco, California",LCA
+35,69,Bell Info Solutions Llc,Data Analyst,Certified,"San Ramon, California",LCA
+36,70,Bell Info Solutions Llc,Data Analyst,Certified,"Sanfrancisco, California",LCA
+37,71,"Bell Info Solutions, Llc",Data Analyst,Certified,"San Francisco, California",LCA
+38,72,Bellema Co.,Data Analyst,Certified,"Walnut, California",LCA
+39,73,Bellema Co.,Data Analyst,Certified,"Walnut, California",LCA
+40,74,Bellema Co.,Data Analyst,Certified,"Walnut, California",LCA
+41,75,Bill.com,Data Analyst,Certified,"Palo Alto, California",LCA
+16,76,Biomarin Inc,Data Analyst,Certified,"Novato, California",LCA
+17,77,Biomarin Inc,Data Analyst,In Process,"Novato, California",LCA
+18,78,"Bluejay Mobile-health, Inc.",Business Data Analyst,Withdrawn,"Pleasanton, California",LCA
+19,79,"Bluejay Mobile-health, Inc.",Business Data Analyst,Certified,"Pleasanton, California",LCA
+20,80,"Bluestone Property Management, Llc",Financial Data Analyst,Certified,"Los Angeles, California",LCA
+21,81,"Boingo Wireless, Inc.",Data Analyst,Certified,"Los Angeles, California",LCA
+22,82,"Boomerang Commerce, Inc.",Senior Data Analyst,Certified,"Mountain View, California",LCA
+23,83,"Boomerang Commerce, Inc.",Senior Data Analyst,Certified,"Mountain View, California",LCA
+25,84,"Boomerang Commerce, Inc.",Senior Data Analyst,Certified,"Mountain View, California",LCA
+26,85,"Bridg, Inc.",Associate Data Analyst,In Process,"Los Angeles, California",LCA
+27,86,"Bridg, Inc.",Associate Data Analyst,Withdrawn,"Los Angeles, California",LCA
+28,87,"Bridg, Inc.",Data Analyst,Certified,"Los Angeles, California",LCA
+29,88,"Buildingiq, Inc.",Operations Data Analyst,Certified,"San Mateo, California",LCA
+30,89,"Buxton Consulting, Inc.",Marketing Data Analyst,Certified,"San Jose, California",LCA
+31,90,"California Creative Solutions, Inc.",Bi/data Analyst,Certified,"Rancho Cucamonga, California",LCA
+32,91,"California Creative Solutions, Inc.",Bi/data Analyst,Certified,"Rancho Cucamonga, California",LCA
+33,92,"California Creative Solutions, Inc.",Data Analyst,Certified,"San Diego, California",LCA
+34,93,"California Creative Solutions, Inc.",Data Analyst,Certified,"Costa Mesa, California",LCA
+35,94,"California Creative Solutions, Inc.",Data Analyst,Certified,"Costa Mesa, California",LCA
+36,95,"California Creative Solutions, Inc.",Data Analyst,Certified,"Rancho Cucamonga, California",LCA
+37,96,"California Creative Solutions, Inc.",Data Analyst,Certified,"Costa Mesa, California",LCA
+38,97,"California Creative Solutions, Inc.",Data Analyst,Certified,"Poway, California",LCA
+39,98,California Expanded Metal Products Co,Data Analyst,Certified,"City Of Industry, California",LCA
+40,99,Canopy One Solutions Inc,Software Programmer/data Analyst,In Process,"El Segundo, California",LCA
+41,100,"Canvas Infotech, Inc.",Business Data Analyst,Certified,"Sunnyvale, California",LCA
+16,101,"Canvas Infotech, Inc.",Business Data Analyst,Certified,"San Francisco, California",LCA
+17,102,"Canvas Infotech, Inc.",Business Data Analyst,Certified,"Sunnyvale, California",LCA
+18,103,"Canvas Infotech, Inc.",Data Analyst,Certified,"Pleasanton, California",LCA
+19,104,"Canvas Infotech, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+20,105,"Canvas Infotech, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+21,106,Capgemini America Inc,Data Analyst 1,Certified,"San Jose, California",LCA
+22,107,Capgemini America Inc,Data Analyst 2,Certified,"Universal City, California",LCA
+23,108,Capgemini America Inc,Data Analyst 2,Certified,"Monterey Park, California",LCA
+25,109,Capgemini America Inc,Data Analyst 2,Certified,"Burbank, California",LCA
+26,110,Capgemini America Inc,Data Analyst 2,Certified,"San Jose, California",LCA
+27,111,Capgemini America Inc,Data Analyst 2,Certified,"Burbank, California",LCA
+28,112,Capgemini America Inc,Data Analyst 3,Certified,"Monterey Park, California",LCA
+29,113,Capgemini America Inc,Data Analyst 3,Certified,"San Diego, California",LCA
+30,114,Capgemini America Inc,Data Analyst 3,Certified,"Monterey Park, California",LCA
+31,115,Capgemini America Inc,Data Analyst 3,In Process,"Culver City, California",LCA
+32,116,Capgemini America Inc,Data Analyst 3,In Process,"San Diego, California",LCA
+33,117,Capgemini America Inc,Data Analyst 3,Certified,"San Francisco, California",LCA
+34,118,"Capgemini America, Inc. (legacy Capgemini Financial Services, Inc.)",Data Analyst 3,Certified,"Woodland Hills, California",LCA
+35,119,"Capgemini America, Inc. (legacy Capgemini Financial Services, Inc.)",Manager (data Analyst),Certified,"Woodland Hills, California",LCA
+36,120,Capital One Services Ii Llc,Data Analysis Manager,Certified,"Oakland, California",LCA
+37,121,Capital One Services Ii Llc,Principal Data Analyst,Certified,"San Francisco, California",LCA
+38,122,"Capital One, National Association",Principal Data Analyst,Certified,"San Francisco, California",LCA
+39,123,Captain401 Inc.,Data Analyst,Certified,"San Francisco, California",LCA
+40,124,"Cardinal Health, Inc.","Sr. Analyst, Data Analytics",Certified,"Milpitas, California",LCA
+41,125,"Castlight Health, Inc.",Senior Data Analyst,Certified,"San Francisco, California",LCA
+16,126,"Centaurus Technology Partners, Llc",Senior Data Analysis Engineer,Certified,"Sunnyvale, California",LCA
+17,127,"Centaurus Technology Partners, Llc",Senior Data Analysis Engineer,Certified,"Sunnyvale, California",LCA
+18,128,"Centaurus Technology Partners, Llc",Senior Sas Data Analyst,In Process,"Redwood City, California",LCA
+19,129,"Centaurus Technology Partners, Llc",Senior Sas Data Analyst,Certified,"Sunnyvale, California",LCA
+20,130,"Centaurus Technology Partners, Llc",Senior Sas Data Analyst,In Process,"San Bruno, California",LCA
+21,131,"Centaurus Technology Partners, Llc",Senior Sas Data Analyst,Certified,"Sunnyvale, California",LCA
+22,132,Cg-vak Software Usa Inc,Data Analyst,Certified,"San Jose, California",LCA
+23,133,"Cisco Systems, Inc.",Data Analyst,Certified - Mail Not Sent,"San Jose, California",LCA
+25,134,City National Bank,"Assistant Vp, Bi Data Analyst",Certified,"Los Angeles, California",LCA
+26,135,City Of Hope National Medical Center,Senior Clinical Informatics Data Analyst,Certified,"Duarte, California",LCA
+27,136,Cj America Inc,Data Analyst,Certified,"Los Angeles, California",LCA
+28,137,"Clearslide, Inc.",Reporting & Data Analytics Program Manager (15-1199.08),Certified,"San Francisco, California",LCA
+29,138,"Clinical Data Solution, Llc",Data Analyst,Certified,"San Rafael, California",LCA
+30,139,Cognos Education,Data Analyst,Certified,"Rolling Hills Estates, California",LCA
+31,140,Collabera Inc.,Data Analyst,Certified,"Pleasanton, California",LCA
+32,141,Comprehensive Community Health Centers,Data Analyst,Certified,"Glendale, California",LCA
+33,142,Computer Global Solutions Inc,Data Analyst,Certified,"Foster City, California",LCA
+34,143,"Comscore, Inc.",Data Analyst,Certified,"Menlo Park, California",LCA
+35,144,Contextlogic Inc.,"Data Analyst, Platform",Certified,"San Francisco, California",LCA
+36,145,Contextlogic Inc.,Senior Data Analyst,Certified,"San Francisco, California",LCA
+37,146,Contextlogic Inc.,Sr. Data Analyst,Certified,"San Francisco, California",LCA
+38,147,Controlco,Buildings Data Analyst,Certified,"Pleasant Hill, California",LCA
+39,148,Coraxis Corporation,Sas Clinical Data Analyst,Certified,"San Diego, California",LCA
+40,149,Core Software Technologies Inc,Data Analyst,Certified,"Milpitas, California",LCA
+41,150,"Cornerstone Ondemand, Inc.",Data Analyst,Certified,"Santa Monica, California",LCA
+16,151,Coupang Global Llc,Data Analyst,Certified,"Mountain View, California",LCA
+17,152,Coupang Global Llc,Data Analyst,Certified,"Mountain View, California",LCA
+18,153,"Coverhound, Inc.",Data Analyst,Certified,"Westlake Village, California",LCA
+19,154,"Covetus, Llc",Data Analyst,In Process,"Mountain View, California",LCA
+20,155,"Creative Market Labs, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+21,156,"Credit Sesame, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+22,157,Criteo Corp,Product Data Analyst,Certified,"Palo Alto, California",LCA
+23,158,"Crunchbase, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+25,159,"Crunchbase, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+26,160,"Cruz Bay Publishing, Inc.",Data Analyst,Certified,"San Diego, California",LCA
+27,161,Csc Covansys Corporation,Professional: Data Analyst,Certified,"Pleasanton, California",LCA
+28,162,Customer Marketing Group Inc,Data Analyst,Certified,"Berkeley, California",LCA
+29,163,Customer Marketing Group Inc,Data Analyst,Certified,"Berkeley, California",LCA
+30,164,Customer Marketing Group Inc,Data Analyst,Certified,"Berkeley, California",LCA
+31,165,Cyanogen Inc,Data Analytics Manager,Denied,"Palo Alto, California",LCA
+32,166,Cyanogen Inc,Data Analytics Manager,Certified,"Palo Alto, California",LCA
+33,167,Cymer Llc,Data Analyst,Certified,"San Diego, California",LCA
+34,168,Cymer Llc,Sr. Data Analyst,Certified,"San Diego, California",LCA
+35,169,Data & Analytics Services Llc,"Associate, Data Analytics",Certified,"Sunnyvale, California",LCA
+36,170,Data Application Lab,Data Analyst,Certified,"Monterey Park, California",LCA
+37,171,"David Wood And Associates, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+38,172,"Davita Medical Management, Llc",Data Analyst Iii,Withdrawn,"El Segundo, California",LCA
+39,173,"Davita Medical Management, Llc",Data Analyst Iii,In Process,"El Segundo, California",LCA
+40,174,Deccan International,Gis Data Analyst,Certified,"San Diego, California",LCA
+41,175,Deccan International,Gis Data Analyst,Certified,"San Diego, California",LCA
+16,176,Deccan International,Gis Data Analyst,Certified,"San Diego, California",LCA
+17,177,"Del Oro Consulting, Inc.",Data Analyst,Certified,"San Jose, California",LCA
+18,178,"Del Oro Consulting, Inc.",Data Analyst,Certified,"San Jose, California",LCA
+19,179,Deloitte & Touche Llp,Audit & Assurance Data Analytics Senior,In Process,"Los Angeles, California",LCA
+20,180,Deloitte & Touche Llp,Audit Data Analytics Associate,Certified,"San Francisco, California",LCA
+21,181,Deloitte & Touche Llp,Audit Data Analytics Specialist Assistant,Certified,"Los Angeles, California",LCA
+22,182,Deloitte & Touche Llp,Audit Data Analytics Specialist Senior,Certified,"San Francisco, California",LCA
+23,183,Deloitte & Touche Llp,Audit Data Analytics Specialist Senior Assistant,Certified,"San Francisco, California",LCA
+25,184,"Delta Computer Consulting, Inc.",Senior Data Analyst,Certified,"Torrance, California",LCA
+26,185,"Derm Cosmetics Labs, Inc.",Data Analyst,Certified,"Buena Park, California",LCA
+27,186,Dia Styling Inc.,Data Analyst,Certified,"Los Angeles, California",LCA
+28,187,Divco West Services Llc,Data Analyst,Withdrawn,"San Francisco, California",LCA
+29,188,Divco West Services Llc,Senior Data Analyst,Certified,"San Francisco, California",LCA
+30,189,Diversant Llc,Sr. Data Analyst/architect,Certified,"South San Francisco, California",LCA
+31,190,"Docusign, Inc.",Sr. Data Analyst,Certified,"San Francisco, California",LCA
+32,191,"Doordash, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+33,192,"Dropbox, Inc.",People Data Analyst,Certified,"San Franciso, California",LCA
+34,193,"E3 Asset Management, Llc",Financial Data Analyst,Certified,"Los Angeles, California",LCA
+35,194,Ebay Inc.,Senior Data Analyst,Certified,"Brisbane, California",LCA
+36,195,"Edgar, Dunn & Company",Data Analyst,Certified,"San Francisco, California",LCA
+37,196,"Edgar, Dunn & Company",Data Analyst,Withdrawn,"San Francisco, California",LCA
+38,197,"Edgar, Dunn & Company",Data Analyst,Certified-withdrawn,"San Francisco, California",LCA
+39,198,Edge It Corp,Data Analyst,Certified,"Sacramento, California",LCA
+40,199,Edge It Corp,Data Analyst,Certified,"Palo Alto, California",LCA
+41,200,Edge It Corp,Data Analyst,Certified,"Sacramento, California",LCA
+16,201,Edgeit Corp,Data Analyst,Withdrawn,"Palo Alto, California",LCA
+17,202,Edmunds.com,Data Analyst,Certified,"Santa Monica, California",LCA
+18,203,Element Technologies Inc.,Data Analyst,Certified,"Oakland, California",LCA
+19,204,"Elementum Scm, Inc.","Senior Manager, Data Analytics & Reporting",Certified,"Mountain View, California",LCA
+20,205,Ellicium Solutions Inc.,Computer Programmer (data Analysis),Withdrawn,"San Leandro, California",LCA
+21,206,Ellicium Solutions Inc.,Computer Programmer (data Analysis),Certified,"San Leandro, California",LCA
+22,207,Ellicium Solutions Inc.,Computer Programmer (data Analysis),Certified,"San Leandro, California",LCA
+23,208,"Enexus Global, Inc.",Business Data Analyst,Certified,"San Jose, California",LCA
+25,209,"Enjoy Technology, Inc.",Data Analyst,Certified,"Menlo Park, California",LCA
+26,210,"Enquero, Inc.",Data Analyst,Certified,"San Jose, California",LCA
+27,211,"Enquero, Inc.",Data Analyst,Certified,"San Jose, California",LCA
+28,212,"Enquero, Inc.",Data Analyst,Certified,"Mountain View, California",LCA
+29,213,"Enquero, Inc.",Data Analyst,Certified,"San Jose, California",LCA
+30,214,"Enquero, Inc.",Data Analyst,Certified,"San Jose, California",LCA
+31,215,"Enquero, Inc.",Data Analyst,Certified,"San Jose, California",LCA
+32,216,Enterprise Qa Labs Inc,Data Analyst,Certified,"Folsom, California",LCA
+33,217,"Entytle, Inc.",Data Analyst,Certified,"Palo Alto, California",LCA
+34,218,"Entytle, Inc.",Data Analyst,Certified,"Palo Alto, California",LCA
+35,219,"Entytle, Inc.",Data Analyst 2,Certified,"Palo Alto, California",LCA
+36,220,"Epam Systems, Inc.",Senior Data Analyst,Certified,"Palo Alto, California",LCA
+37,221,"Esurance Insurance Services, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+38,222,"Esurance Insurance Services, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+39,223,"Esurance Insurance Services, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+40,224,Eteam Solutions Inc,Business Data Analyst,Certified,"Sanjose, California",LCA
+41,225,"Eteam Solutions, Inc.",Business Data Analyst,Certified,"San Jose, California",LCA
+16,226,Etouch Systems Corporation,Senior Data Analyst,Certified,"Fremont, California",LCA
+17,227,"Euclid Elementz, Inc.",Data Analyst,Certified,"Oakland, California",LCA
+18,228,"Euclid Elementz, Inc.",Data Analyst,Certified,"Oakland, California",LCA
+19,229,"Eventbrite, Inc.",Economist (data Analyst),Certified,"San Francisco, California",LCA
+20,230,Everlane Inc.,Data Analyst,Certified,"San Francisco, California",LCA
+21,231,Exulus Llc,Supply Chain Data Analyst,Certified-withdrawn,"San Francisco, California",LCA
+22,232,"Eye Io, Llc",Data Analyst And Software Engineer,Certified,"Palo Alto, California",LCA
+23,233,"Facebook, Inc.",Data Analyst Lead,Certified,"Menlo Park, California",LCA
+25,234,"Facebook, Inc.",Marketing Data Analyst,Certified,"Menlo Park, California",LCA
+26,235,"Facebook, Inc.",Security Data Analytics Engineer,Certified,"Menlo Park, California",LCA
+27,236,Fair Isaac Inc,Data Analyst,In Process,"San Rafael, California",LCA
+28,237,Fair Isaac Inc,Data Analyst,In Process,"San Rafael, California",LCA
+29,238,Faraday & Future Inc,Marketing Data Analyst,Certified,"Gardena, California",LCA
+30,239,Faraday & Future Inc,Data Analyst Lead,Certified,"Santa Clara, California",LCA
+31,240,Faraday&future Inc,Data Analyst,Certified,"Gardena, California",LCA
+32,241,"Finadyne, Inc.",Business Intelligence-data Analyst,Certified,"Calabasas, California",LCA
+33,242,First Republic Bank,Data Analyst,Certified,"San Francisco, California",LCA
+34,243,First Republic Bank,Data Analyst,In Process,"San Francisco, California",LCA
+35,244,First Republic Bank,Senior Risk Data Analyst,Certified,"San Francisco, California",LCA
+36,245,First Republic Bank,Senior Risk Data Analyst,Certified,"San Francisco, California",LCA
+37,246,"First Tek, Inc.",Data Analyst,Certified-withdrawn,"Dublin,, California",LCA
+38,247,"First Tek, Inc.",Data Analyst,Certified-withdrawn,"San Ramon, California",LCA
+39,248,Fitbit,Data Analyst,Certified,"San Francisco, California",LCA
+40,249,Fitbit,Senior Data Analyst,Certified,"San Francisco, California",LCA
+41,250,"Fitbit, Inc.",Sr. Data Analyst,Certified,"San Francisco, California",LCA
+16,251,"Five Stars Loyalty, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+17,252,Flexera Software Llc,Business Data Analyst,Certified,"Oakland, California",LCA
+18,253,Flydata Inc.,Data Analyst,Certified,"Sunnyvale, California",LCA
+19,254,Focuskpi Inc,Business Data Analyst,Certified,"Santa Clara, California",LCA
+20,255,Focuskpi Inc,Business Data Analyst,Certified,"Santa Clara, California",LCA
+21,256,Focuskpi Inc,Data Analyst,Certified,"Santa Clara, California",LCA
+22,257,Focuskpi Inc,Marketing Data Analyst,Certified,"Santa Clara, California",LCA
+23,258,Free Stream Media Corporation,Computer Systems Data Analyst,Certified,"San Francisco, California",LCA
+25,259,Free Stream Media Corporation,Computer Systems Data Analyst,Certified,"San Francisco, California",LCA
+26,260,Freedom Financial Network Llc,Senior Data Analyst,Certified,"San Mateo, California",LCA
+27,261,Frontapp Inc.,Data Analyst,Certified,"San Francisco, California",LCA
+28,262,"Fusion Plus Solutions, Inc",Business Data Analyst,Certified,"Walnut Creek, California",LCA
+29,263,"Fusion Plus Solutions, Inc",Business Data Analyst,Certified,"Walnut Creek, California",LCA
+30,264,"Future Dial, Inc.",Data Analyst,Certified,"Sunnyvale, California",LCA
+31,265,Futures In Education,Manager Of Data Analytics And Assessment,Certified,"San Francisco, California",LCA
+32,266,Gausscode Technology Inc.,Data Analyst,Withdrawn,"Milpitas, California",LCA
+33,267,Gausscode Technology Inc.,Data Analyst,Certified,"Milpitas, California",LCA
+34,268,"Genentech Usa, Inc.",Data Analyst (marketing),Certified,"South San Francisco, California",LCA
+35,269,"Genentech Usa, Inc.",Data Analyst (marketing),Certified,"South San Francisco, California",LCA
+36,270,"Genentech Usa, Inc.",Senior Market Data Analytics Manager,Certified,"South San Francisco, California",LCA
+37,271,"Genomic Health, Inc.",Senior Biomedical Data Analyst,Certified,"Redwood City, California",LCA
+38,272,"Gfk Boutique Research, Llc",Data Analyst,Certified,"San Francisco, California",LCA
+39,273,"Gh Design Group, Llc",Financial Data Analyst,Certified,"Ontario, California",LCA
+40,274,"Glassdoor, Inc.",Senior Data Analyst,Certified,"Mill Valley, California",LCA
+41,275,"Glassdoor, Inc.",Senior Data Analyst,Certified,"Mill Valley, California",LCA
+16,276,Global Entrepreneurs Network Inc,Data Analyst (finance And Operations),Withdrawn,"San Jose, California",LCA
+17,277,Global Entrepreneurs Network Inc,Data Analyst (finance And Operations),Certified,"San Jose, California",LCA
+18,278,"Global Touchpoints, Inc. Duns# 13-8058305",Data Analyst,In Process,"Mountain View, California",LCA
+19,279,"Goodrx, Inc.",Data Analyst,Certified,"Santa Monica, California",LCA
+20,280,Google Inc.,Data Analyst 1615.31035,Certified,"Sunnyvale, California",LCA
+21,281,Google Inc.,Quantitative Data Analyst 1615.20850,Certified,"San Bruno, California",LCA
+22,282,Google Llc,Business Intelligence Data Analyst (1615.36541),Certified,"Sunnyvale, California",LCA
+23,283,"Gotion, Inc.",Data Analyst,Certified,"Fremont, California",LCA
+25,284,"Grand Canal Solutions, Inc.",Supply Chain Data Analyst,Certified,"Los Gatos, California",LCA
+26,285,Grindr Llc,Sales & Data Analyst,Certified,"West Hollywood, California",LCA
+27,286,"Groupon, Inc.",Technical Data Analyst - Edw,Certified,"Palo Alto, California",LCA
+28,287,"Harbor Green Grain, Lp",Financial Data Analyst,Certified,"Compton, California",LCA
+29,288,"Healthstream, Inc.",Data Analyst I,Certified,"San Diego, California",LCA
+30,289,"Hearsay Social, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+31,290,"Heritage Provider Network, Inc.",Data Analyst,Certified,"Northridge, California",LCA
+32,291,"Heritage Provider Network, Inc.",Data Analyst,Certified,"Northridge, California",LCA
+33,292,"Heritage Provider Network, Inc.","Data Analyst, Project Manager",Certified,"Northridge, California",LCA
+34,293,"Hint, Inc.",Senior Operations Data Analyst,Certified,"Pleasanton, California",LCA
+35,294,"Home Paradises, Llc",Financial Data Analyst,Certified,"Commerce, California",LCA
+36,295,"Housecanary, Inc.",Senior Data Analyst,Certified,"San Francisco, California",LCA
+37,296,Human-i-t,Business Intelligence Data Analyst,Certified,"Long Beach, California",LCA
+38,297,Iconsoft Inc.,Data Analyst,In Process,"Encino, California",LCA
+39,298,"Icw Group Holdings, Inc.",Data Analyst,Certified,"San Diego, California",LCA
+40,299,"Icw Group Holdings, Inc.",Data Analyst,Certified,"San Diego, California",LCA
+41,300,"Ifwe, Inc.",Data Analyst Ii,Certified,"San Francisco, California",LCA
+16,301,"Ihealth Labs, Inc.",Data Analyst,Certified,"Sunnyvale, California",LCA
+17,302,"Incedo, Inc.",Data Analyst/scientist,Certified,"San Francisco, California",LCA
+18,303,Indo Welsh Company Inc,Data Analyst,Certified,"San Jose, California",LCA
+19,304,Indo Welsh Company Inc.,Data Analyst,Withdrawn,"San Jose, California",LCA
+20,305,Infusionsoft,Sales & Marketing Data Analyst,Certified,"San Francisco, California",LCA
+21,306,Insurance Company Of The West,Data Analyst,Certified,"San Diego, California",LCA
+22,307,Insurance Company Of The West,Data Analyst,Certified,"San Diego, California",LCA
+23,308,Intco Medical Industries Inc,Marketing Data Analyst,Certified,"Ontario, California",LCA
+25,309,Intel Americas,Data Analyst,Certified,"Santa Clara, California",LCA
+26,310,"Intellipro Group, Inc.",Hr Bi Data Analyst,Certified,"Santa Clara, California",LCA
+27,311,International Solution Sources Llc,Business Data Analyst,Certified-withdrawn,"Walnut Creek, California",LCA
+28,312,International Solution Sources Llc,Business Data Analyst,Certified,"San Francisco, California",LCA
+29,313,International Solution Sources Llc,Business Data Analyst,Certified,"Mountain View, California",LCA
+30,314,International Solution Sources Llc,Data Analyst,Withdrawn,"San Jose, California",LCA
+31,315,International Solution Sources Llc,Data Analyst,Certified,"San Leandro, California",LCA
+32,316,International Solution Sources Llc,Data Analyst,Certified,"San Jose, California",LCA
+33,317,International Solution Sources Llc,Data Analyst,Certified,"Mountain View, California",LCA
+34,318,International Solution Sources Llc,Data Analyst,Certified,"San Leandro, California",LCA
+35,319,International Solution Sources Llc,Data Analyst,Certified,"San Leandro, California",LCA
+36,320,International Solution Sources Llc,Data Analyst,Certified,"San Jose, California",LCA
+37,321,International Solution Sources Llc,Data Analyst,Certified,"San Jose, California",LCA
+38,322,International Solution Sources Llc,Data Analyst,Certified,"Mountain View, California",LCA
+39,323,"Internet Brands, Inc.",Data Analyst,Certified,"El Segundo, California",LCA
+40,324,Intersoftkk Inc.,Business Data Analyst,Certified,"San Jose, California",LCA
+41,325,Intersoftkk Inc.,Business Data Analyst,Certified,"San Jose, California",LCA
+16,326,Intuit Inc.,Business Data Analyst,Certified,"Mountain View, California",LCA
+17,327,Intuit Inc.,Business Data Analyst,Certified,"Mountain View, California",LCA
+18,328,Intuit Inc.,Senior Business Data Analyst,Certified,"Mountain View, California",LCA
+19,329,Intuit Inc.,Senior Business Data Analyst,Certified,"Mountain View, California",LCA
+20,330,Intuit Inc.,Senior Business Data Analyst,Certified,"Mountain View, California",LCA
+21,331,Intuit Inc.,Senior Business Data Analyst,Certified,"Woodland Hills, California",LCA
+22,332,Intuit Inc.,Senior Business Data Analyst,Certified,"Mountain View, California",LCA
+23,333,Intuit Inc.,Senior Business Data Analyst,Certified,"Mountain View, California",LCA
+25,334,Intuit Inc.,Senior Business Data Analyst,Certified,"Mountain View, California",LCA
+26,335,Intuit Inc.,Senior Business Data Analyst,Certified,"Mountain View, California",LCA
+27,336,Intuit Inc.,Senior Business Data Analyst,Certified,"Mountain View, California",LCA
+28,337,Intuit Inc.,Senior Business Data Analyst,Certified,"Mountain View, California",LCA
+29,338,Intuit Inc.,Senior Business Data Analyst,In Process,"Mountain View, California",LCA
+30,339,Intuit Inc.,Senior Business Data Analyst,Certified,"Mountain View, California",LCA
+31,340,Intuit Inc.,Senior Business Data Analyst,Certified,"Woodland Hills, California",LCA
+32,341,Intuit Inc.,Senior Business Data Analyst,Certified,"Mountain View, California",LCA
+33,342,Intuit Inc.,Senior Business Data Analyst,Certified,"Mountain View, California",LCA
+34,343,Intuit Inc.,Senior Business Data Analyst,Certified,"Mountain View, California",LCA
+35,344,Intuit Inc.,Senior Business Data Analyst,In Process,"Mountain View, California",LCA
+36,345,Intuit Inc.,Senior Technical Data Analyst,Certified,"Mountain View, California",LCA
+37,346,Intuit Inc.,Senior Technical Data Analyst,Certified,"Mountain View, California",LCA
+38,347,Intuit Inc.,Senior Technical Data Analyst,Certified,"Mountain View, California",LCA
+39,348,Intuit Inc.,Senior Technical Data Analyst,Certified,"Mountain View, California",LCA
+40,349,Intuit Inc.,Senior Technical Data Analyst,Certified,"Mountain View, California",LCA
+41,350,Intuit Inc.,Senior Technical Data Analyst,Certified,"Mountain View, California",LCA
+16,351,Intuit Inc.,Senior Technical Data Analyst,Certified,"Mountain View, California",LCA
+17,352,Intuit Inc.,Staff Business Data Analysis,Certified,"Mountain View, California",LCA
+18,353,Intuit Inc.,Staff Business Data Analyst,Certified,"Mountain View, California",LCA
+19,354,Intuit Inc.,Staff Business Data Analyst,Certified,"Mountain View, California",LCA
+20,355,Intuit Inc.,Staff Business Data Analyst,Certified,"Mountain View, California",LCA
+21,356,Intuit Inc.,Staff Business Data Analyst,Certified,"Mountain View, California",LCA
+22,357,Intuit Inc.,Staff Technical Data Analyst,Certified,"Woodland Hills, California",LCA
+23,358,Intuit Inc.,Staff Technical Data Analyst,In Process,"Mountain View, California",LCA
+25,359,Intuit Inc.,Technical Data Analyst,Certified,"Mountain View, California",LCA
+26,360,Intuit Inc.,Technical Data Analyst,In Process,"Mountain View, California",LCA
+27,361,"Intuitive Surgical, Inc.",Business Data Analyst,Certified,"Sunnyvale, California",LCA
+28,362,"Itlize Global, Llc",Data Analyst,Certified,"Rancho Cucamonga, California",LCA
+29,363,Itson Inc.,Junior Data Analyst,Certified,"Redwood City, California",LCA
+30,364,Ixl Learning,Data Analyst,Certified,"San Mateo, California",LCA
+31,365,"Jam City , Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+32,366,"Jam City, Inc.",Data Analyst,Certified,"Carlsbad, California",LCA
+33,367,"Jam City, Inc.",Marketing Data Analyst,Certified,"Culver City, California",LCA
+34,368,James J. Glidewell Dental Ceramics Inc.,Operations Research Analyst - Data Analyst,In Process,"Irvine, California",LCA
+35,369,Jem Enterprise,Data Analyst,Certified,"Alhambra, California",LCA
+36,370,Jem Enterprise,Data Analyst,Certified,"Alhambra, California",LCA
+37,371,Jem Enterprise,Data Analyst,Certified,"Alhambra, California",LCA
+38,372,Jiawei Technology Usa Ltd,Data Analyst,Certified,"Hayward, California",LCA
+39,373,"Kiran Analytics, Inc.",Data Analyst,Certified,"San Diego, California",LCA
+40,374,Kiwa Bio-tech Products Group Corporation,Financial Data Analyst,Certified,"Ontario, California",LCA
+41,375,"Kki Ventures, Inc.",Investment Data Analyst,In Process,"Newport Beach, California",LCA
+16,376,"Knowledge Decision Services, Llc",Data Analyst,Certified,"San Jose, California",LCA
+17,377,"Landmark Mso, Llc",Senior Data Analyst,Certified,"Huntington Beach, California",LCA
+18,378,"Lanner Electronics Usa, Inc.",Data Analyst,Certified,"Fremont, California",LCA
+19,379,Leaf Group Ltd.,Data Analyst,Certified,"Santa Monica, California",LCA
+20,380,Leaf Group Ltd.,Data Analyst,Certified,"Santa Monica, California",LCA
+21,381,"Leanplum, Inc",Data Analyst,Certified,"San Francisco, California",LCA
+22,382,Linkedin Corporation,"Software Engineer,data Mining/data Analysis/machine Learning",Certified,"Sunnyvale, California",LCA
+23,383,"Liquidhub, Inc.",Sr. Data Analyst,Certified,"South San Francisco, California",LCA
+25,384,"Liquidhub, Inc.",Sr. Data Analyst,Certified,"South San Francisco, California",LCA
+26,385,"Looker Data Sciences, Inc.","Data Analyst, Professional Services",Certified,"Santa Cruz, California",LCA
+27,386,Los Angeles Opera Company,Data Analyst Coordinator,Certified,"Los Angeles, California",LCA
+28,387,Lumileds Llc,Business Data Analyst,Certified,"San Jose, California",LCA
+29,388,"Lundquist Consulting, Inc.",Data Analyst,Certified,"Burlingame, California",LCA
+30,389,"Lyft, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+31,390,"Lyft, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+32,391,"Lyft, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+33,392,"Lyft, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+34,393,"Lyft, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+35,394,"Lyft, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+36,395,"Lyft, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+37,396,"Lyft, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+38,397,"Lyft, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+39,398,"Lyft, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+40,399,"Lyft, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+41,400,"Lyft, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+16,401,"Lyft, Inc.",Data Analytics,Certified,"San Francisco, California",LCA
+17,402,"Lyft, Inc.",Quantitative Data Analyst,Certified,"San Francisco, California",LCA
+18,403,"Lyft, Inc.",Senior Data Analyst,Certified,"San Francisco, California",LCA
+19,404,"Lyft, Inc.",Senior Data Analyst,Certified,"San Francisco, California",LCA
+20,405,"Lyft, Inc.",Senior Data Analyst,Certified,"San Francisco, California",LCA
+21,406,"Lyft, Inc.",Senior Data Analyst,Certified,"San Francisco, California",LCA
+22,407,"Lyft, Inc.",Senior Data Analyst,Certified,"San Francisco, California",LCA
+23,408,"Machine Zone, Inc.","Manager, Data Analytics",Certified,"Palo Alto, California",LCA
+25,409,Magnus Technology Solutions Inc,Data Analyst,Certified,"Milpitas, California",LCA
+26,410,Maplebear Inc,Statistical Data Analyst,Certified,"San Francisco, California",LCA
+27,411,"Maplebear, Inc.","Senior Data Analyst, Operations",Certified,"San Francisco, California",LCA
+28,412,"Maplebear, Inc.","Senior Data Analyst, Partner",Certified,"San Francisco, California",LCA
+29,413,Marketshare Partners Llc,Senior Data Analyst,Certified,"Los Angeles, California",LCA
+30,414,Marketshare Partners Llc,Senior Data Analyst,Certified,"San Diego, California",LCA
+31,415,Massdrop Inc.,Senior Data Analytics Manager,Certified,"San Francisco, California",LCA
+32,416,"Mathematica Policy Research, Inc.",Clinical Data Analyst,Certified,"Oakland, California",LCA
+33,417,"Maxdecisions, Inc.",Financial Data Analyst,Certified,"Irvine, California",LCA
+34,418,"Maxisit, Inc",Sr. Sas Programmer/statistical Data Analyst,Certified,"Pleasanton, California",LCA
+35,419,"Mcafee, Llc",Data Analyst,Certified,"Santa Clara, California",LCA
+36,420,"Mcafee, Llc",Data Analyst,Pending Co Decision - Unassigned,"Santa Clara, California",LCA
+37,421,Medamerica Inc.,Data Analyist,Certified,"Emeryville, California",LCA
+38,422,Medamerica Inc.,"Data Analyst, Statistical",Certified,"Emeryville, California",LCA
+39,423,Meltwater News Us1 Inc.,Data Analyst,Certified,"San Francisco, California",LCA
+40,424,"Mercury Insurance Services, Llc",Data Analytics Manager,Certified,"Brea, California",LCA
+41,425,"Mercury Insurance Services, Llc",Data Analytics Manager,Certified,"Brea, California",LCA
+16,426,Meta Company,Data Analytics And Technical Services Engineer,Certified,"San Mateo, California",LCA
+17,427,"Midland Credit Management, Inc.",Data Analyst,Certified,"San Diego, California",LCA
+18,428,"Midland Credit Management, Inc.",Data Analyst,Certified,"San Diego, California",LCA
+19,429,"Midland Credit Management, Inc.",Data Analyst,Certified,"San Diego, California",LCA
+20,430,"Midland Credit Management, Inc.",Data Analyst,Certified,"San Diego, California",LCA
+21,431,Milky Way International Trading Corp.,Market Data Analyst,Certified,"Norwalk, California",LCA
+22,432,"Milliman, Inc.",Senior Data Analyst,Certified,"San Diego, California",LCA
+23,433,Mills-peninsula Health Services,Sr. Outcomes Data Analyst,Certified,"Burlingame, California",LCA
+25,434,"Mitchell/martin, Inc.",Technical Data Analyst,Certified,"Sunnyvale, California",LCA
+26,435,"Mobilityware, Inc.",Associate Data Analyst,Certified,"Irvine, California",LCA
+27,436,"Mobilityware, Inc.",Data Analyst - Product,Certified,"Irvine, California",LCA
+28,437,"Mobilityware, Inc.",Senior Data Analyst,Certified-withdrawn,"Irvine, California",LCA
+29,438,"Mode Analytics, Inc.",Pre-sales Data Analyst,Certified,"San Francisco, California",LCA
+30,439,"Moody's Analytics, Inc.",Assistant Director - Research Data Analyst,Certified,"San Francisco, California",LCA
+31,440,"Moody's Analytics, Inc.",Research Data Analyst,Certified,"San Francisco, California",LCA
+32,441,Motor Vehicle Software Corporation,Data Analyst,Certified,"Agoura Hills, California",LCA
+33,442,Moulton Niguel Water District,Financial Data Analyst,Denied,"Laguna Niguel, California",LCA
+34,443,"Mventix, Inc.",Data Analyst-statistician,Certified,"Stevenson Ranch, California",LCA
+35,444,"Mynd Management, Inc.",Data Analyst,Certified,"Oakland, California",LCA
+36,445,Myvest Corporation,Business Data Analyst Ii,Certified,"San Francisco, California",LCA
+37,446,Nanometrics Inc.,Data Analyst,Certified,"Milpitas, California",LCA
+38,447,"Natera, Inc.",Operation Data Analyst 2,Certified,"San Carlos, California",LCA
+39,448,"Natera, Inc.",Operations Data Analyst,Certified,"San Carlos, California",LCA
+40,449,"Navis, Llc",Business Intelligence Data Analyst,In Process,"Oakland, California",LCA
+41,450,"Nch Management Systems, Inc.",Health Care Data Analyst,Withdrawn,"Brea, California",LCA
+16,451,"Nch Management Systems, Inc.",Health Care Data Analyst,Withdrawn,"Brea, California",LCA
+17,452,"Nch Management Systems, Inc.",Health Care Data Analyst,Denied,"Brea, California",LCA
+18,453,Netease Information Technology,Data Analyst,Certified,"Brisbane, California",LCA
+19,454,Netease Information Technology Corporation,Associate Data Analyst,Certified,"Brisbane, California",LCA
+20,455,Netease Information Technology Corporation,Data Analyst,Certified,"Brisbane, California",LCA
+21,456,Netease Information Technology Corporation,Senior Data Analyst,In Process,"Brisbane, California",LCA
+22,457,Netease Information Technology Corporation,Senior Data Analyst,Certified,"Brisbane, California",LCA
+23,458,"Netflix, Inc.",Senior Data Analyst,Certified,"Los Gatos, California",LCA
+25,459,"Netgear, Inc.",Data Analytics Administrator,Certified,"San Jose,, California",LCA
+26,460,Netlogic Solutions Inc,Business Data Analyst,Certified,"San Leandro, California",LCA
+27,461,"Neustar Ip Intelligence, Inc.",Data Analyst,In Process,"San Francisco, California",LCA
+28,462,"Neustar, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+29,463,"Neustar, Inc.",Data Analyst,Certified,"Los Angeles, California",LCA
+30,464,New Media Data Consulting Inc.,Media Data Analyst & Consultant,Certified,"Arcadia, California",LCA
+31,465,"Nexant, Inc.",Data Analytics Engineer (electrical/power Systems),Certified,"San Francisco, California",LCA
+32,466,Nexon M Inc.,Sr. Data Analyst,Certified,"Emeryville, California",LCA
+33,467,"Nexon M, Inc.",Data Analyst,Certified,"Emeryville, California",LCA
+34,468,"Niagara Bottling, Llc",Manufacturing Data Analyst (15-1199.08),Certified,"Ontario, California",LCA
+35,469,"Nimble Storage, Inc.",Data Analyst,Certified,"San Jose, California",LCA
+36,470,"No Credit Check Auto Sales, Inc.",Business Data Analyst,Certified,"Hayward, California",LCA
+37,471,Nokia Usa Inc.,"Software Engineer, Data Analytics",Certified,"Sunnyvale, California",LCA
+38,472,"Nor1, Inc.",Data Analyst,Certified,"Santa Clara, California",LCA
+39,473,"Nor1, Inc.",Data Analyst,Certified,"Santa Clara, California",LCA
+40,474,Novumind Inc.,Data Analyst,Certified,"Santa Clara, California",LCA
+41,475,Nuro Inc,Data Analyst And Business Modeler,Certified,"Mountain View, California",LCA
+16,476,Nvidia Corporation,Data Analyst,Analyst Review - Unassigned,"Santa Clara, California",LCA
+17,477,Nvidia Corporation,Data Analyst,Pending Co Decision - Unassigned,"Santa Clara, California",LCA
+18,478,Nvidia Corporation,Data Analyst,Certified,"Santa Clara, California",LCA
+19,479,Nvidia Corporation,Data Analyst,Analyst Review - Unassigned,"Santa Clara, California",LCA
+20,480,"Okta, Inc.",Senior Data Analyst,Certified,"San Francisco, California",LCA
+21,481,"Only It Consulting, Llc",Big Data Analyst,Certified,"Pleasanton, California",LCA
+22,482,Opendoor Labs Inc.,Data Analyst,Certified,"San Francisco, California",LCA
+23,483,"Opentable, Inc.",Data Analytics Engineer,Certified,"San Francisco, California",LCA
+25,484,"Optum Services, Inc.",It Data Analytics Consultant,Certified,"Santa Ana, California",LCA
+26,485,"Orcafly, Inc.",Data Analyst,Certified,"Santa Clara, California",LCA
+27,486,"Orcafly, Inc.",Data Analyst,Certified,"Santa Clara, California",LCA
+28,487,"Orpine, Inc.",Data Analyst,Withdrawn,"Mather, California",LCA
+29,488,"Outpost Games, Inc.",Data Analyst,In Process,"Redwood City, California",LCA
+30,489,"Palo Alto Networks, Inc.","Data Analyst, People Analytics",Certified,"Santa Clara, California",LCA
+31,490,"Palo Alto Networks, Inc.",It Data Analyst,Certified,"Santa Clara, California",LCA
+32,491,"Palo Alto Networks, Inc.",It Data Analyst,Certified,"Santa Clara, California",LCA
+33,492,"Patreon, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+34,493,"Payoff, Inc.",Data Analyst,Certified,"Costa Mesa, California",LCA
+35,494,"Paypal, Inc.",Data Analyst,Denied,"San Jose, California",LCA
+36,495,"Paypal, Inc.",Data Analyst 1,Certified,"San Jose, California",LCA
+37,496,"Paypal, Inc.",Data Analyst 2,Certified,"San Jose, California",LCA
+38,497,"Paypal, Inc.",Data Analyst 2,Certified,"San Jose, California",LCA
+39,498,"Paypal, Inc.",Data Analyst 2,Certified,"San Jose, California",LCA
+40,499,"Pcg Enterprises, Inc.",Senior Data Analyst,Certified,"Redwood City, California",LCA
+41,500,Personal Capital Corporation,Data Analyst,Certified,"San Carlos, California",LCA
+16,501,"Personalized Beauty Discovery, Inc.",Senior Data Analyst,In Process,"San Mateo, California",LCA
+17,502,Pioneer Corporate Services Inc,Data Analyst,Certified,"Foster City, California",LCA
+18,503,"Pivotal Software, Inc.",Business Intelligence Data Analyst,Certified,"Palo Alto, California",LCA
+19,504,Pixelberry Studios,Data Analyst,Certified,"Mountain View, California",LCA
+20,505,Pluto Inc. Dba Pluto Tv,Data Analyst,Certified,"Los Angeles, California",LCA
+21,506,Pollux Consultancy Services Llc,Sr. Data Analytics Consultant,Certified,"Thousand Oks, California",LCA
+22,507,Pollux Consultancy Services Llc,Sr. Data Analytics Consultant,Withdrawn,"Thousand Oks, California",LCA
+23,508,Pollux Consultancy Services Llc,Sr. Data Analytics Consultant,In Process,"Thousand Oks, California",LCA
+25,509,Populus Group Llc,Data Analyst Ii,Certified,"San Jose, California",LCA
+26,510,Poshmark Inc,Sr. Data Analyst,In Process,"Redwood City, California",LCA
+27,511,"Praedicat, Inc.",Client Data Analyst,Certified,"Los Angeles, California",LCA
+28,512,"Praedicat, Inc.",Data Analyst,Certified,"Los Angeles, California",LCA
+29,513,Primesoft Consulting Services,Data Analyst,Certified,"South San Francisco, California",LCA
+30,514,Primesoft Consulting Services,Data Analyst,Certified,"South San Franisco, California",LCA
+31,515,Priority Concierge Llc,Business Data Analyst,Certified,"El Monte, California",LCA
+32,516,"Procal Technologies Inc.,",Mainframe/unix Systems Data Analyst Technical Lead,In Process,"Pleasanton, California",LCA
+33,517,Progressive Casualty Insurance Company,Data Analyst,Certified,"Walnut Creek, California",LCA
+34,518,"Promedia Telecom, Inc",Data Analyst,Certified,"San Diego, California",LCA
+35,519,Protocol Infotech Inc Duns# 830803735,Data Analyst,Certified,"Los Angeles, California",LCA
+36,520,Public Storage,Sr. Manager Of Data Analytics,Certified,"Glendale, California",LCA
+37,521,"Pure Storage, Inc.",Senior Data Analyst,In Process,"Mountain View, California",LCA
+38,522,Pvr America Inc,Business Data Analyst,Certified,"San Diego, California",LCA
+39,523,Pvr America Inc,Business Data Analyst,Certified,"San Diego, California",LCA
+40,524,Pvr America Inc,Business Data Analyst,Certified,"San Diego, California",LCA
+41,525,Pvr America Inc,Business Data Analyst,Certified,"Irvine, California",LCA
+16,526,"Pvr America, Inc.",Business Data Analyst,Certified,"Modesto, California",LCA
+17,527,"Pvr America, Inc.",Business Data Analyst,Certified,"Modesto, California",LCA
+18,528,Qualcomm Incorporated,It Data Analyst,Certified,"San Diego, California",LCA
+19,529,Qualcomm Incorporated,Senior Data Analyst,Denied,"San Diego, California",LCA
+20,530,Qualcomm Incorporated,Senior Data Analyst,Certified,"San Diego, California",LCA
+21,531,Qualcomm Incorporated,Staff Data Analyst,In Process,"San Diego, California",LCA
+22,532,"Quantum Solutions, Inc.",Business Intelligence-data Analyst,Certified,"Calabasas, California",LCA
+23,533,"Quantum Solutions, Inc.",Business Intelligence-data Analyst,Certified,"Calabasas, California",LCA
+25,534,Questpay Inc.,Data Analyst,In Process,"San Ramon, California",LCA
+26,535,Quick Biology Inc,Data Analyst,Certified,"Pasadena, California",LCA
+27,536,"Quora, Inc.",Business Data Analyst,Certified,"Mountain View, California",LCA
+28,537,"Quora, Inc.",Business Data Analyst - Ads,Certified,"Mountain View, California",LCA
+29,538,Quotient Technology Inc.,Data Analyst (11329.104),Certified,"Mountain View, California",LCA
+30,539,"Quotient Technology, Inc.",Data Analyst,Certified,"Mountain View, California",LCA
+31,540,"Randstad Technologies, Llc",Data Analyst,Certified,"Los Angeles, California",LCA
+32,541,"Randstad Technologies, Llc",Data Analytics Analyst,Certified,"Santa Ana, California",LCA
+33,542,"Randstad Technologies, Llc",Data Analytics Analyst,Certified,"Santa Ana, California",LCA
+34,543,"Rang Technologies, Inc.",Data Analyst,Certified,"Foster City, California",LCA
+35,544,"Rang Technologies, Inc.",Data Analyst,Certified,"Foster City, California",LCA
+36,545,"Red Bull Distribution Company, Inc.",Sales Data Analyst,Certified,"Santa Monica, California",LCA
+37,546,"Redolent, Inc.",Bi Data Analyst,Certified,"San Bruno, California",LCA
+38,547,"Redtail Technology, Inc.",Data Analyst,Certified,"Gold River, California",LCA
+39,548,"Redtail Technology, Inc.",Data Analyst,Certified,"Gold River, California",LCA
+40,549,Render Media Inc.,Social Data Analyst,Certified,"Los Angeles, California",LCA
+41,550,Render Media Inc.,Social Data Analyst,Certified,"Los Angeles, California",LCA
+16,551,"Renovate America, Inc.",Senior Data Analyst,Certified,"San Diego, California",LCA
+17,552,"Retail Activation Services Llc, D/b/a Consensus",Finance Data Analyst,Withdrawn,"San Francisco, California",LCA
+18,553,"Retail Activation Services Llc, D/b/a Consensus",Finance Data Analyst,Certified,"San Francisco, California",LCA
+19,554,"Retail Activation Services Llc, D/b/a Consensus",Finance Data Analyst,Certified,"San Francisco, California",LCA
+20,555,"Richrelevance, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+21,556,"Rk Management Consultants, Inc.",Data Analyst,Certified,"Pleasanton, California",LCA
+22,557,Roblox Corporation,Data Analyst,Certified,"San Mateo, California",LCA
+23,558,Roblox Corporation,Data Analyst,Certified,"San Mateo, California",LCA
+25,559,Roblox Corporation,Data Analyst,Certified,"San Mateo, California",LCA
+26,560,Rodan & Fields Llc,Finance Technical Systems And Data Analytics Manager,Certified,"San Ramon, California",LCA
+27,561,"Roku, Inc.",Data Analyst,Certified,"Los Gatos, California",LCA
+28,562,"Royal Technocrats, Inc.",Data Analyst Programmer,Certified,"Santa Clara, California",LCA
+29,563,S.f. Express Corporation,Data Analyst,Certified,"City Of Industry, California",LCA
+30,564,"Salesforce.com, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+31,565,"Samsung Sds America, Inc.",Data Analytics Developer,Certified,"San Jose, California",LCA
+32,566,"Samsung Sds America, Inc.",Data Analytics Developer,Certified,"San Jose, California",LCA
+33,567,"Samsung Sds America, Inc.",Data Analytics Developer,Certified,"San Jose, California",LCA
+34,568,"Samsung Semiconductor, Inc.",Staff Engineer - Big Data (data Analytics),Certified,"San Jose, California",LCA
+35,569,Satin Solutions Llc,Data Analyst,Certified,"Santa Monica, California",LCA
+36,570,Saymosaic Inc,Senior Data Analyst,Certified,"San Francisco, California",LCA
+37,571,Scan Group,Data Analyst,Certified,"Long Beach, California",LCA
+38,572,Scan Health Plan,Pharmacy Data Analyst,Certified,"Long Beach, California",LCA
+39,573,"Scoutit, Inc.",Content Marketing Data Analyst,Certified,"San Francisco, California",LCA
+40,574,Semtech Corporation,Master Data Analyst,Withdrawn,"Camarillo, California",LCA
+41,575,Semtech Corporation,Master Data Analyst,Certified,"Camarillo, California",LCA
+16,576,"Service Trading Company, Inc.",Business Analyst And Data Analyst,Certified,"Irvine, California",LCA
+17,577,"Servicenow, Inc.",Business Data Analyst,Certified,"San Diego, California",LCA
+18,578,"Servicenow, Inc.",Senior Data Analyst,Certified,"San Diego, California",LCA
+19,579,"Servicenow, Inc.",Senior Data Analyst,Certified,"San Diego, California",LCA
+20,580,Shaping Data Solutions Inc,Data Analyst,Certified,"South San Francisco, California",LCA
+21,581,Shipt Inc,Data Analyst,Certified,"San Francisco, California",LCA
+22,582,Shipt Inc,Data Analyst,Certified,"San Francisco, California",LCA
+23,583,Shopkick Inc,Data Analyst,Certified,"Redwood City, California",LCA
+25,584,"Shopkick, Inc.",Data Analyst,Certified,"Redwood City, California",LCA
+26,585,"Shutterfly, Inc.",Business Data Analyst,Certified-withdrawn,"Redwood City, California",LCA
+27,586,"Siemens Medical Solutions Usa, Inc.",Healthcare Data Analyst,Certified,"Mountain View, California",LCA
+28,587,"Sigmaways, Inc",Data Analyst,Certified,"Fremont, California",LCA
+29,588,"Simplehuman, Llc","Data Analyst, Business Analytics",Certified,"Torrance, California",LCA
+30,589,"Simplehuman, Llc","Data Analyst, Business Analytics",Certified,"Torrance, California",LCA
+31,590,Siri Infosolutions Inc.,Data Analyst,Certified,"Torrance, California",LCA
+32,591,"Skoruz Technologies, Inc",Sr. Customer Data Analyst,In Process,"Palo Alto, California",LCA
+33,592,"Slice Technologies, Inc.",Classification Data Analyst,Certified,"San Mateo, California",LCA
+34,593,"Slice Technologies, Inc.",Client Data Analyst,Certified,"San Mateo, California",LCA
+35,594,Smartzip Analytics Inc.,Data Analytics Engineer,Certified,"Pleasanton, California",LCA
+36,595,Snap Inc.,Data Analyst,Certified,"Venice, California",LCA
+37,596,"Socialrep, Inc.",Social Data Analytics Specialist,Certified,"San Diego, California",LCA
+38,597,"Socialrep, Inc.",Social Data Analytics Specialist,In Process,"San Diego, California",LCA
+39,598,Softsense Solutions Llc,Data Analyst,Certified,"San Jose, California",LCA
+40,599,Softsol Technologies Inc,Data Analyst,Certified,"Cupertino, California",LCA
+41,600,Softstandard Solutions Llc,Bi Data Analyst,Certified,"San Francisco, California",LCA
+16,601,"Sojern, Inc.",Lead Data Analyst,Certified,"San Francisco, California",LCA
+17,602,"Sonos, Inc.",Networking Data Analyst,Certified,"Santa Barbara, California",LCA
+18,603,"Sonos, Inc.",Quality Management System/data Analyst,Certified,"Santa Barbara, California",LCA
+19,604,Sony Interactive Entertainment America Llc,Data Analyst,Certified,"San Mateo, California",LCA
+20,605,"Source Mantra, Inc.",Engineer (data Analysis & Modeling),Certified,"Irvine, California",LCA
+21,606,Spin Analytics And Strategy Llc,Data Analyst,Certified,"San Mateo, California",LCA
+22,607,Spin Analytics And Strategy Llc,Data Analyst,Certified,"San Mateo, California",LCA
+23,608,"Spireon, Inc.",Data Analyst,Certified,"Irvine, California",LCA
+25,609,Spln International Llc.,Business Data Analyst / Business Strategy Analyst,Certified,"San Jose, California",LCA
+26,610,Springml Inc.,Data Analyst,Certified,"Pleasanton, California",LCA
+27,611,Springml Inc.,Senior Data Analyst,Certified,"Pleasanton, California",LCA
+28,612,St. Anthony Serenethos Snf Llc,Healthcare Data Analyst,Certified,"Hayward, California",LCA
+29,613,"St. Jude Medical Business Services, Inc.",Biomedical Engineering Data Analyst,Certified,"Sylmar, California",LCA
+30,614,"St. Jude Medical Business Services, Inc.",Clinical Data Analyst,Certified,"Sylmar, California",LCA
+31,615,Step Ahead Solutions Inc,Bi / Data Analyst (tableau/data Visualization),In Process,"San Mateo, California",LCA
+32,616,Streams Inc,Data Analyst,Certified,"Redwood City, California",LCA
+33,617,Streams Inc,Data Analyst,Certified,"Mountain View, California",LCA
+34,618,"Stripe, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+35,619,Sung Tien Corporation,Financial Data Analyst,Certified,"Whittier, California",LCA
+36,620,"Suntender Valuations, Inc.",Data Analyst Specialist,Certified,"Pleasanton, California",LCA
+37,621,"Super Micro Computer, Inc",Data Analyst,Certified,"San Jose, California",LCA
+38,622,"Super Micro Computer, Inc",Data Analyst,Certified,"San Jose, California",LCA
+39,623,"Super Micro Computer, Inc",Data Analyst,Certified,"San Jose, California",LCA
+40,624,"Super Micro Computer, Inc",Data Analyst,Certified,"San Jose, California",LCA
+41,625,Surveymonkey Inc.,Data Analyst,In Process,"San Mateo, California",LCA
+16,626,Surveymonkey Inc.,Senior Data Analyst,Certified,"San Mateo, California",LCA
+17,627,Suswee Infotech Corp,Business Systems Data Analyst,In Process,"San Francisco, California",LCA
+18,628,Sutter Bay Hospitals,Sr. Outcomes Data Analyst,Certified,"Burlingame, California",LCA
+19,629,Sutter Bay Hospitals,Sr. Outcomes Data Analyst,Certified,"Burlingame, California",LCA
+20,630,Synced Technology Inc.,Data Analyst,Certified,"San Jose, California",LCA
+21,631,Synergy Softwares Llc,Electronic Record Management Data Analyst,Certified,"Fremont, California",LCA
+22,632,"Sysazzle, Inc.",Business And Data Analyst,Certified,"Dinuba, California",LCA
+23,633,System1 Llc,Data Analyst,Certified,"Venice, California",LCA
+25,634,System1 Llc,Data Analyst,Certified,"Venice, California",LCA
+26,635,"T3c, Inc. Dba Retail Solutions, Inc.","Software Engineer, Data Analysis",Certified,"Mountain View, California",LCA
+27,636,Talend Inc.,Senior Customer Data Analyst,Certified,"Redwood City, California",LCA
+28,637,"Tapjoy, Inc.",Data Analytics Engineer,Certified,"San Francisco, California",LCA
+29,638,"Tapjoy, Inc.",Sr. Data Analytics Engineer,Certified,"San Francisco, California",LCA
+30,639,Targetcast Llc,Dmp Technology And Data Analyst,Certified,"Century City, California",LCA
+31,640,Tax Credit Co Llc,Sql Data Analyst,Certified,"Los Angeles, California",LCA
+32,641,Tech Matrix Inc,Data Analyst,In Process,"Long Beach, California",LCA
+33,642,Tech Matrix Inc,Data Analyst,Certified,"Long Beach, California",LCA
+34,643,Tech Matrix Inc,Data Analyst,Certified,"Long Beach, California",LCA
+35,644,"Technitia, Inc.",Data Analyst,Denied,"South San Francisco, California",LCA
+36,645,"Technitia, Inc.",Data Analyst,In Process,"South San Francisco, California",LCA
+37,646,Tekemploi Co.,System Analyst/ Data Analyst,Certified,"Dublin, California",LCA
+38,647,Tekwissen Llc,Healthcare Data Analyst,Certified,"Long Beach, California",LCA
+39,648,"Telefonica Digital, Inc.",Data Analytics Engineer,Certified,"San Francisco, California",LCA
+40,649,"Telenav, Inc.",Data Analyst,Certified,"Culver City, California",LCA
+41,650,"Tempoe, Llc","Data Analyst, Risk Analytics",Certified,"San Francisco, California",LCA
+16,651,"Tesla, Inc.",Data Analyst,Certified,"Fremont, California",LCA
+17,652,"Tesla, Inc.",Data Analyst,Certified,"Fremont, California",LCA
+18,653,"Tesla, Inc.",Data Analyst,Certified,"Fremont, California",LCA
+19,654,"Tesla, Inc.",Senior Data Analyst,Certified,"Fremont, California",LCA
+20,655,"Tesla, Inc.",Sr. Dimensional Data Analyst,Certified,"Fremont, California",LCA
+21,656,"The Aberdeen Group, Llc",Data Analyst,Certified,"San Diego, California",LCA
+22,657,"The Board Of Trustees Of The Leland Stanford, Jr. University",Data Analyst 1,Certified,"Stanford, California",LCA
+23,658,"The Board Of Trustees Of The Leland Stanford, Jr. University",Data Analyst 2,Certified,"Stanford, California",LCA
+25,659,"The Board Of Trustees Of The Leland Stanford, Jr. University",Research Data Analyst 1,Certified,"Palo Alto, California",LCA
+26,660,"The Board Of Trustees Of The Leland Stanford, Jr. University",Research Data Analyst 1,Certified,"Stanford, California",LCA
+27,661,"The Board Of Trustees Of The Leland Stanford, Jr. University",Research Data Analyst 1,Certified,"Stanford, California",LCA
+28,662,"The Board Of Trustees Of The Leland Stanford, Jr. University",Research Data Analyst 1,Certified,"Stanford, California",LCA
+29,663,"The Board Of Trustees Of The Leland Stanford, Jr. University",Rsch Data Analyst 1,Certified,"Stanford, California",LCA
+30,664,"The Board Of Trustees Of The Leland Stanford, Jr. University",Rsch Data Analyst 1,Certified,"Stanford, California",LCA
+31,665,"The Board Of Trustees Of The Leland Stanford, Jr. University",Rsch Data Analyst 1,Certified,"Stanford, California",LCA
+32,666,"The Board Of Trustees Of The Leland Stanford, Jr. University",Rsch Data Analyst 1,Certified,"Stanford, California",LCA
+33,667,"The Board Of Trustees Of The Leland Stanford, Jr. University",Rsch Data Analyst 1,Certified,"Stanford, California",LCA
+34,668,The Climate Corporation,Data Analyst,Certified,"San Francisco, California",LCA
+35,669,"The Gap, Inc.",Data Analyst Ii,Certified,"San Francisco, California",LCA
+36,670,"The Meet Group, Inc.",Data Analyst Ii (analytics),Certified,"San Francisco, California",LCA
+37,671,"The Meet Group, Inc.",Data Analyst Ii (analytics),Certified,"San Francisco, California",LCA
+38,672,"The One-page Company, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+39,673,The University Of Southern California,Business Data Analyst,Certified,"Los Angeles, California",LCA
+40,674,Tile Inc.,Senior Data Analyst,Certified,"San Mateo, California",LCA
+41,675,"Tile, Inc.",Product Data Analyst,Certified,"San Mateo, California",LCA
+16,676,"Tinder, Inc.",Senior Data Analyst,Certified,"West Hollywood, California",LCA
+17,677,"Tipalti, Inc.",Data Analyst,Certified,"San Mateo, California",LCA
+18,678,Tmc Software Inc,Data Analyst,Certified,"San Francisco, California",LCA
+19,679,Travix Travel Usa Inc.,Junior Pricing And Data Analyst,Certified,"San Jose, California",LCA
+20,680,Trusted Patterns Inc.,Data Analyst,Certified,"San Jose, California",LCA
+21,681,Trusted Patterns Inc.,Data Analyst,Certified,"San Jose, California",LCA
+22,682,"Tte Technology, Inc.",Engineering Data Analyst,Certified,"Corona, California",LCA
+23,683,"Tubular Labs, Inc.",Solutions Data Analyst,Certified,"Mountain View, California",LCA
+25,684,Tuplesignals Inc,Data Analyst,Certified,"San Francisco, California",LCA
+26,685,Turo Inc.,Senior Data Analyst,Certified,"San Francisco, California",LCA
+27,686,Twilio Inc.,Data Analyst,Certified,"San Francisco, California",LCA
+28,687,"Uber Technologies, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+29,688,"Uber Technologies, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+30,689,"Uber Technologies, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+31,690,"Uber Technologies, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+32,691,"Uber Technologies, Inc.",Data Analyst,In Process,"San Francisco, California",LCA
+33,692,"Uber Technologies, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+34,693,"Uber Technologies, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+35,694,"Uber Technologies, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+36,695,"Uber Technologies, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+37,696,"Uber Technologies, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+38,697,"Uber Technologies, Inc.",Data Analyst,In Process,"San Francisco, California",LCA
+39,698,"Uber Technologies, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+40,699,"Uber Technologies, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+41,700,"Uber Technologies, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+16,701,"Uber Technologies, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+17,702,"Uber Technologies, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+18,703,"Uber Technologies, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+19,704,"Uber Technologies, Inc.",Safety And Insurance Data Analyst,In Process,"San Francisco, California",LCA
+20,705,"Uber Technologies, Inc.",Senior Data Analyst,Certified,"San Francisco, California",LCA
+21,706,"Uber Technologies, Inc.",Senior Data Analyst,Certified,"San Francisco, California",LCA
+22,707,"Uber Technologies, Inc.",Senior Data Analyst,In Process,"San Francisco, California",LCA
+23,708,"Uber Technologies, Inc.",Senior Data Analyst,Certified,"San Francisco, California",LCA
+25,709,"Uber Technologies, Inc.","Web Analytics, Data Analyst",In Process,"San Francisco, California",LCA
+26,710,Ubertal Inc.,Software Engineer - Data Analytics,Certified,"Santa Clara, California",LCA
+27,711,"Udacity, Inc.",Data Analyst,Certified,"Mountain View, California",LCA
+28,712,"Udacity, Inc.",Sr Data Analyst,Certified,"Mountain View, California",LCA
+29,713,"Udacity, Inc.","Sr. Data Analyst, Marketing",Certified,"Mountain View, California",LCA
+30,714,"Unemployment Solutions For You, Llc",Programmer / Data Analyst,Certified,"Valencia, California",LCA
+31,715,Uni Grace Corporation,Data Analyst,Certified,"City Of Industry, California",LCA
+32,716,Unikon It Inc,Data Analyst,Certified,"Los Angeles, California",LCA
+33,717,"University Of California, Berkeley",Research Data Analyst Step Ii,Certified,"Berkeley, California",LCA
+34,718,"University Of California, Los Angeles",Data Analyst,Certified,"Los Angeles, California",LCA
+35,719,Uw International Corp.,Marketing Data Analyst,Certified,"El Monte, California",LCA
+36,720,Uw International Corp.,Marketing Data Analyst,Denied,"El Monte, California",LCA
+37,721,"V2solutions, Inc.",Data Analyst,Certified,"Burbank, California",LCA
+38,722,"V2solutions, Inc.",Data Analyst,Certified,"Santa Clara, California",LCA
+39,723,Valiantica Inc,Data Analyst,Certified,"San Jose, California",LCA
+40,724,"Velos, Inc.",Data Analyst,Certified,"Fremont, California",LCA
+41,725,Viking River Cruises Inc.,Data Analytics Engineer,Certified,"Woodland Hills, California",LCA
+16,726,Visa U.s.a. Inc.,Data Analyst,Certified,"Palo Alto, California",LCA
+17,727,Visa U.s.a. Inc.,Manager (data Analytics),Certified,"Foster City, California",LCA
+18,728,Visa U.s.a. Inc.,Senior Data Analyst,Certified,"Foster City, California",LCA
+19,729,Vivdda Llc,Data Analyst,Certified,"Costa Mesa, California",LCA
+20,730,"Vmware, Inc.",Data Analyst,Certified,"Palo Alto, California",LCA
+21,731,"Wal-mart Associates, Inc.",Data Analyst,Certified,"Sunnyvale, California",LCA
+22,732,Walt Disney Pictures,Data Analyst,Certified,"Burbank, California",LCA
+23,733,"Walton Isaacson, Llc",Media Data Analyst,Certified,"Culver City, California",LCA
+25,734,Warner Bros. Entertainment Inc.,Data Analyst,Certified,"Burbank, California",LCA
+26,735,Warner Bros. Entertainment Inc.,Data Analyst,Certified,"Burbank, California",LCA
+27,736,Whatsapp Inc.,Data Analyst,Certified,"Menlo Park, California",LCA
+28,737,"Wine Access, Inc.",Data Analyst,Certified,"San Francisco, California",LCA
+29,738,Wonderbox Technologies Llc,Data Analyst,Certified,"Santa Clara, California",LCA
+30,739,Wonderbox Technologies Llc,Data Analyst,In Process,"Fremont, California",LCA
+31,740,Wonderbox Technologies Llc,Data Analyst,Certified,"Fremont, California",LCA
+32,741,"Xignite, Inc.",Financial Data Analyst (sales Engineer),Certified,"San Mateo, California",LCA
+33,742,"Xtime, Inc.",Sr. Etl Data Analyst,Certified,"Redwood City, California",LCA
+34,743,"Xtime, Inc.",Sr. Etl Data Analyst,Certified,"Redwood City, California",LCA
+35,744,Yelp Inc.,Business Intelligence Data Analyst,Certified,"San Francisco, California",LCA
+36,745,Yelp Inc.,Business Intelligence Data Analyst,Certified,"San Francisco, California",LCA
+37,746,Yelp Inc.,Data Analyst,Certified,"San Francisco, California",LCA
+38,747,Youcaring Dot Com Llc,Data Analyst,Certified,"San Francisco, California",LCA
+39,748,Youcaring Dot Com Llc,Data Analyst,Certified,"San Francisco, California",LCA
+40,749,"Zendrive, Inc.",Data Analyst (transportation),Certified,"San Francisco, California",LCA
+41,750,Zinus Inc.,Demand Forecasting Data Analyst,Certified,"San Leandro, California",LCA
+16,751,Zinus Inc.,Demand Forecasting Data Analyst,Certified,"San Leandro, California",LCA
+17,752,"Ziprecruiter, Inc.",Data Analyst,Certified,"Santa Monica, California",LCA
+18,753,Zynga Inc.,Data Analyst (manager),Certified,"San Francisco, California",LCA
+19,754,Zynga Inc.,Senior Data Analyst,Certified,"San Francisco, California",LCA

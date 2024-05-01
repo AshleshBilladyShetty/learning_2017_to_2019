@@ -1,0 +1,395 @@
+,Employer,count
+113,"Facebook, Inc.",78
+355,"Uber Technologies, Inc.",68
+14,"Airbnb, Inc.",28
+180,Linkedin Corporation,23
+372,"Wal-mart Associates, Inc.",20
+98,Ebay Inc.,17
+202,Microsoft Corporation,13
+294,Snap Inc.,13
+319,"Target Enterprise, Inc.",13
+188,"Lyft, Inc.",12
+353,"Twitter, Inc.",12
+29,Apple Inc.,11
+273,Salesforce.com Inc.,11
+163,Intel Corporation,10
+239,"Paypal, Inc.",10
+7,Adobe Systems Incorporated,9
+125,General Electric Company,9
+325,"Tesla, Inc.",9
+357,"Uhana, Inc.",8
+216,"Netflix, Inc.",8
+387,"Zestfinance, Inc.",8
+156,Ibm Corporation,8
+228,Nvidia Corporation,7
+340,"Touchpal, Inc.",7
+304,"Stitch Fix, Inc.",7
+189,"Machine Zone, Inc.",7
+135,Google Llc,7
+198,"Medtronic, Inc.",6
+140,"Groupon, Inc.",6
+165,Intuit Inc.,6
+175,"Kohl's Department Stores, Inc.",6
+379,"Xad, Inc.",6
+52,"C3, Inc.",5
+245,"Pinterest, Inc.",5
+277,"Sap Labs, Llc",5
+73,Contextlogic Inc.,5
+248,"Plum Lending, Inc.",5
+282,"Scry Analytics, Inc.",4
+44,"Blizzard Entertainment, Inc.",4
+233,"Oracle America, Inc",4
+54,California Institute Of Technology/jet Propulsion Laboratory,4
+86,Databricks Inc.,4
+0,"24/7 Customer, Inc.",4
+257,"Quora, Inc.",4
+388,"Zillow, Inc.",4
+380,"Xchange Leasing, Llc",4
+38,"Autodesk, Inc.",4
+253,"Pure Storage, Inc.",4
+208,"Move, Inc",3
+162,"Insurance Services Office, Inc.",3
+151,"Hotwire, Inc.",3
+154,"Hulu, Llc",3
+121,"Flyr, Inc.",3
+157,"Icuemotion, Llc",3
+237,"Palo Alto Networks, Inc.",3
+177,"Leantaas, Inc.",3
+75,"Conviva, Inc.",3
+209,"Move, Inc.",3
+179,Levi Strauss & Co.,3
+102,"Elevate Credit Service, Llc",3
+78,Coursera Inc.,3
+94,"Dropbox, Inc.",3
+201,"Metromile, Inc.",3
+213,"Natera, Inc.",3
+100,"Electronic Arts, Inc.",3
+256,"Quantifind, Inc.",3
+314,"Supply Frame, Inc.",3
+19,"Amazon Fulfillment Services, Inc.",3
+327,"The Boston Consulting Group, Inc.",3
+27,Aol Advertising Inc.,3
+316,"T3c, Inc. Dba Retail Solutions, Inc.",3
+131,"Godaddy.com, Llc",3
+307,"Stubhub, Inc.",3
+302,"Staples, Inc.",3
+300,"Square, Inc.",3
+346,"Truecar, Inc.",3
+351,Twilio Inc.,3
+352,"Twitch Interactive, Inc.",3
+322,"Telenav, Inc.",3
+63,"Circle Up Network, Inc.",3
+267,"Riot Games, Inc.",3
+53,"Ca, Inc.",3
+371,"Vungle, Inc.",3
+271,"Roche Sequencing Solutions, Inc.",3
+360,"Upstart Network, Inc.",2
+171,"Jlm Energy, Inc",2
+384,Your Mechanic Inc,2
+137,Grand Rounds Inc.,2
+178,Lendingclub Corporation,2
+332,"The Rubicon Project, Inc.",2
+176,"Komodo Health, Inc.",2
+335,"Thumbtack, Inc.",2
+170,Jd.com American Technologies Corporation,2
+382,"Yewno, Inc.",2
+354,"U.s. Radiology On-call, Llc",2
+337,Tile Inc.,2
+374,"Whispertext, Inc.",2
+362,"Upwork, Inc.",2
+183,Logitech Inc.,2
+159,Ikon Systems Llc,2
+158,"Id Analytics, Llc",2
+155,Humana Insurance Company,2
+160,"Indeed, Inc.",2
+254,"Quad Analytix, Inc.",2
+185,"Lumiata, Inc.",2
+223,"Noodle Analytics, Inc.",2
+250,Postmates Inc.,2
+246,"Pivotal Software, Inc.",2
+268,Robert Bosch Llc,2
+279,Schlumberger Technology Corporation,2
+286,"Seriously Digital Entertainment, Inc.",2
+231,"Opentable, Inc.",2
+290,"Sharethis, Inc.",2
+229,"One Concern, Inc.",2
+292,"Shutterfly, Inc.",2
+227,Nuna Health,2
+224,Noodle Education Inc.,2
+222,Nokia Usa Inc.,2
+187,Luxe Valet Inc.,2
+293,"Smartlens Analytics, Inc",2
+297,Splunk Inc.,2
+298,Sportradar Us Llc,2
+303,"Starsky Robotics, Inc.",2
+306,"Stripe, Inc.",2
+196,"Maxim Integrated Products, Inc.",2
+310,Suning Commerce R&d Center Usa Inc.,2
+194,Mattel Sales Corporation,2
+193,Marketshare Partners Llc,2
+312,"Sunverge Energy, Inc.",2
+321,"Taskrabbit, Inc.",2
+132,Gofundme Inc,2
+197,"Mcafee, Llc",2
+393,"Zynga, Inc.",2
+34,"Arimo, Llc",2
+119,"Fishermen Labs, Llc.",2
+116,"Farmer's Business Network, Inc.",2
+12,"Affirm, Inc.",2
+110,"Exabeam, Inc.",2
+105,"Erp Cloud Technologies, Llc",2
+21,"Amazon Web Services, Inc.",2
+101,"Elementum Scm, Inc.",2
+93,"Driver, Inc.",2
+85,"Data Rpm Corporation, Usa",2
+84,"Cylance, Inc",2
+123,"Fusionops, Inc.",2
+82,"Crixlabs, Inc.",2
+35,"Asurion, Llc",2
+36,"At&t Services, Inc.",2
+79,"Credit Karma, Inc.",2
+39,"Autogrid Systems, Inc.",2
+69,"Cloudcar, Inc.",2
+64,"Cisco Systems, Inc.",2
+57,Chan Zuckerberg Initiative Llc,2
+59,Chegg Inc.,2
+9,"Aetion, Inc.",2
+25,"Ancestry.com Operations, Inc.",2
+124,Gameloft Inc.,2
+2,A Medium Corporation,2
+128,Glaxosmithkline Llc,2
+127,"Glassdoor, Inc.",2
+45,Bold North America Llc,1
+301,Srs Consulting Inc.,1
+43,"Bizcraft Consulting, Llc",1
+42,Bill.com,1
+41,"Banjo, Inc.",1
+305,"Streetline, Inc.",1
+40,"Autotrader.com, Inc.",1
+389,"Zingbox, Inc.",1
+308,"Sugarcrm, Inc.",1
+309,Suning Commerce R&d Center,1
+37,"Atlassian, Inc.",1
+311,Sunpower Corporation,1
+46,"Bot Home Automation, Inc.",1
+313,Super Evil Megacorp,1
+3,"Ace Metrix, Inc.",1
+386,"Zebit, Inc.",1
+315,Surveymonkey Inc.,1
+385,"Yume, Inc.",1
+4,"Activision Publishing, Inc.",1
+317,"Taboola, Inc.",1
+318,"Tapjoy, Inc.",1
+33,"Arimo, Inc.",1
+320,Targetcast Llc,1
+383,Yono Health Inc.,1
+299,Sprint Corporation,1
+47,"Branch Metrics, Inc.",1
+31,"Applied Materials, Inc.",1
+284,Sense360 Inc.,1
+392,"Zugata, Inc.",1
+274,"Salesforce.com, Inc.",1
+275,"Samsung Sds America, Inc.",1
+276,"Samsung Sds Global Scl America, Inc.",1
+58,"Chartboost, Inc.",1
+278,Sas Institute Inc.,1
+391,"Zone 24x7, Inc.",1
+280,Scientific Revenue,1
+281,"Scopely, Inc.",1
+56,"Capital One Services, Llc",1
+283,"Second Measure, Inc.",1
+390,"Ziprecruiter, Inc.",1
+296,"Soundcloud, Inc.",1
+285,"Sensortower, Inc.",1
+55,"Callinize, Inc",1
+287,"Servature, Inc.",1
+288,"Servicenow, Inc.",1
+289,"Shape Security, Inc.",1
+51,"Butler, Shine, Stern & Partners, Llc",1
+291,"Shazam Media Services, Inc.",1
+50,Buddyhopp Inc.,1
+49,"Brightedge Technologies, Inc.",1
+48,"Bridg, Inc.",1
+295,"Soasta, Inc.",1
+32,Appzen Inc,1
+323,"Ten-x, Llc",1
+373,Whatsapp Inc.,1
+350,Twentieth Century Fox Film Corp.,1
+20,Amazon Web Services Inc.,1
+18,Amazon Corporate Llc,1
+8,Aella Data Inc.,1
+17,Alorica Inc.,1
+16,Akido Labs Inc.,1
+356,"Ubisoft, Inc.",1
+15,Aki Technologies,1
+378,"Worldscape, Inc.",1
+358,"Univision Interactive Media, Inc.",1
+359,"Uplift, Inc.",1
+13,"Agilone, Inc.",1
+361,Upwork Inc.,1
+377,"World Wide Technology Holding Company, Inc.",1
+363,"User Testing, Inc.",1
+364,"Vaco San Francisco, Llc",1
+365,"Valor Water Analytics, Inc.",1
+366,Venturesoft Global Inc,1
+367,"Videoamp, Inc.",1
+368,"Viglink, Inc.",1
+369,Visa Technology & Operations Llc,1
+376,"Workday, Inc.",1
+370,Volvo Car Usa Llc,1
+11,"Affinity Solutions, Inc",1
+10,Aetna Resources Llc,1
+375,"Williams-sonoma, Inc.",1
+6,"Adecco Usa, Inc.",1
+349,Turo Inc.,1
+324,"Teradata Operations, Inc.",1
+348,Trusted Patterns Inc.,1
+30,Applied Data Finance Llc,1
+326,Textnow Inc.,1
+28,"Apixio, Inc.",1
+328,The Climate Corporation,1
+329,The Clorox Company,1
+330,The Honest Company,1
+331,"The Nielsen Company (us), Llc",1
+26,Antsquare Inc.,1
+333,Third Eye Consulting Services & Solutions Llc,1
+334,Thomson Reuters (markets) Llc,1
+60,"Chegg, Inc.",1
+336,"Tibco Software, Inc.",1
+24,"Ancestry.com Dna, Llc",1
+338,Tivo Solutions Inc. (f/k/a Tivo Inc.),1
+339,Torrid Llc,1
+5,Adalitek Group Llc,1
+23,Anaplan Inc.,1
+341,Tr Transition Services Inc.,1
+342,"Tremus, Inc.",1
+343,"Trib3.com, Inc.",1
+344,"Tripping International, Inc.",1
+345,Trooly Inc.,1
+22,"Analytic Mix, Inc.",1
+347,"Truex, Inc.",1
+381,Yelp Inc.,1
+272,Rule 14 Llc,1
+130,Gm Cruise Llc,1
+270,Roblox Corporation,1
+169,"Jam City, Inc.",1
+111,"Experian Information Solutions, Inc.",1
+172,"Juvo Mobile, Inc.",1
+173,K-source Inc.,1
+174,"Koding, Inc.",1
+109,Evernote Corporation,1
+108,"Euclid, Inc.",1
+107,"Esurance Insurance Services, Inc.",1
+106,"Erp Global, Inc.",1
+181,"Live Nation Worldwide, Inc.",1
+182,Lmb Mortgage Services Inc.,1
+104,"Entertainment Data Oracle, Inc.",1
+184,Lowermybills.com,1
+103,"Entelo, Inc.",1
+186,"Lumos Labs, Inc.",1
+99,"Egnyte, Inc.",1
+97,Earnest Inc.,1
+190,Macy's Merchandising Corporation,1
+191,"Manthan Systems, Inc.",1
+192,"Mapd Technologies, Inc",1
+96,E. & J. Gallo Winery,1
+95,"Dtex Systems, Inc.",1
+195,"Mattermark, Inc.",1
+1,"2k Games, Inc.",1
+92,"Driven Brands Shared Services, Llc",1
+199,"Mercedes-benz Research & Development North America, Inc.",1
+200,Merqbiz Llc,1
+91,"Doximity, Inc.",1
+112,"Ezoic, Inc",1
+168,"Iteris, Inc",1
+269,Robert Half International Inc.,1
+167,"It Associates, Inc.",1
+134,Google Inc.,1
+129,"Globant, Llc",1
+136,Gosvea Inc,1
+138,Grandata Usa Inc.,1
+139,Greenwave Reality Inc.,1
+141,Grove Collaborative Inc.,1
+142,"Guardant Health, Inc.",1
+143,Gumgum Inc.,1
+144,"H2o.ai, Inc.",1
+145,Halo Tech Corp.,1
+146,"Hart, Inc.",1
+147,"Healthcare Business Intelligence Solutions, Inc.",1
+148,Hg Data Company,1
+149,"Hired, Inc.",1
+150,"Hotel Tonight, Inc.",1
+126,"Genscape, Inc.",1
+152,"Houzz, Inc.",1
+153,"Huami, Inc.",1
+122,"Fresno Unlimited, Inc.",1
+120,Flowcast Inc.,1
+118,Financial Technology Partners Lp,1
+117,Farmers Insurance Exchange,1
+161,Instart Logic Inc.,1
+115,"Fandango Media, Llc",1
+164,"Intellipro Group, Inc.",1
+114,"Fanatics Retail Group Fulfillment, Inc.",1
+166,Inventure Capital Corporation,1
+90,"Devrabbit It Solutions, Inc",1
+203,"Mist Systems, Inc.",1
+204,"Mocap Analytics, Inc.",1
+205,Monsanto Company,1
+240,"Peopleaxis, Inc",1
+241,Percolata Corporation,1
+242,"Personalized Beauty Discovery, Inc.",1
+243,"Picarro, Inc.",1
+244,Pinn Technologies Inc.,1
+71,"Cogitativo, Inc",1
+70,"Clover Health Labs, Llc",1
+247,"Plangrid, Inc.",1
+249,Popsugar Inc.,1
+68,"Clearaccessip, Inc.",1
+251,"Primer Technologies, Inc.",1
+252,"Publica, Llc",1
+67,Clarivate Analytics (us) Llc,1
+66,"Clari, Inc.",1
+255,Quality Planning Corp.,1
+65,Citilabs Inc.,1
+258,"Quotient Technology, Inc.",1
+259,"Qventus, Inc",1
+260,Radius Intelligence Inc.,1
+261,"Radius Intelligence, Inc.",1
+262,"Red Beacon, Inc.",1
+133,Google Capital Management Company Llc,1
+264,"Relayrides, Inc.",1
+265,Reputation.com,1
+266,"Retrofit, Inc.",1
+62,Circle Internet Financial Inc.,1
+61,Chobanian Group Llc,1
+72,"Comcast Cable Communications, Llc",1
+238,"Patternex, Inc.",1
+74,Conversion Logic,1
+219,Nextev Llc,1
+206,"Moody's Analytics, Inc.",1
+207,"Motivo, Inc.",1
+89,"Deserve, Inc.",1
+88,"Deep Vision, Inc",1
+210,"Mufg Union Bank, N.a.",1
+211,"Mulesoft, Inc.",1
+212,Myntra Inc,1
+87,"Datavisor, Inc.",1
+214,"Nativo, Inc.",1
+215,"Nc Interactive, Llc",1
+217,Neustar Information Services,1
+218,"Nextdoor.com, Inc.",1
+220,Niantic Inc,1
+236,Pacific Life Insurance Company,1
+221,Nio Usa Inc.,1
+83,Csaa Insurance Services Inc.,1
+225,Npv Staffing Llc,1
+226,Ntent Inc.,1
+81,Criteo Corp,1
+80,Crf Technology Corporation,1
+230,Openmail Llc,1
+77,Coupang Global Llc,1
+232,"Openx Technologies, Inc.",1
+76,"Countertack, Inc",1
+234,"Orbital Insight, Inc.",1
+235,"Pacific Dental Services, Llc",1
+263,"Reddit, Inc.",1

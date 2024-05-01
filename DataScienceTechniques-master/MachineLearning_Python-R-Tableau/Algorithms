@@ -1,0 +1,30 @@
+Dynamic programming:
+
+Tabulation : Bottom up Dynamic programming: Solve all sub problem to arrive at the solution for the bigger problem
+Memoization: Top Down Dynamic programming: (Recursion with memory): Solve From top down and solve only those sub problems that needs to be solved
+
+Problems where all the sub problems are not needed to be solved memoization dynamic programming performs better.
+https://www.geeksforgeeks.org/tabulation-vs-memoizatation/
+https://gjdanis.github.io/2015/10/19/dynamic-programming-memo/
+
+# Fibonacci with recursion
+def fibonacci_recursion(n):
+    return 1 if n==0 or n==1 else fibonacci_recursion(n-2) + fibonacci_recursion(n-1)
+    
+# Fibonacci with memoization DP: Top down
+def fibonacci_memoization_dp(n):
+    fib_dict = {}
+    def inner(n):
+        if n==0 or n==1:
+            return 1
+        if n not in fib_dict:
+            fib_dict[n] = inner(n-1) + inner(n-2) 
+        return fib_dict[n]
+    return inner(n)
+    
+#Fibonacci with tabulation DP: Bottom Up
+def fibonacci_tabulation_dp(n):
+    fib_list = [1,1]
+    for i in range(1,n):
+        fib_list.append(fib_list[i] + fib_list[i-1])
+    return fib_list[-1]
